@@ -1,5 +1,5 @@
 # ML_HIIT
-Machine Learning Team Project - HIIT Exercise
+Machine Learning Team Project - Human Activity Recognition
 
 This project is based on <a href="https://knu-p4c-lab.github.io/lectures/bb2bca2d-537e-5332-82b1-cf8f07ca885b/" target="_blank">**'2024 Spring Machine Learning(2)'**</a> by KNU P4C Lab.
 
@@ -23,7 +23,9 @@ This project is based on <a href="https://knu-p4c-lab.github.io/lectures/bb2bca2
 자세한 내용은 [설명 문서](https://docs.google.com/document/d/1lphQPFxZrGUJ2EBI5urmJG3JM_YP6eW_2CEfZHDD0cU/edit?tab=t.0)를 참고.
 
 ### Result
+`team1` 폴더에서 각 인원의 데이터 수집 결과가 excel 파일을 확인 가능.
 
+[운동별 데이터 시각화](https://github.com/liebenholz/ML_HIIT/blob/main/team01/graph_check.ipynb) 자료를 통해 센서의 계형 확인.
 
 
 ## 2. Model Building and Evaluation for HAR
@@ -37,5 +39,7 @@ This project is based on <a href="https://knu-p4c-lab.github.io/lectures/bb2bca2
 
 ### Result
 
+`team2` 폴더에서 주요 데이터 분석 및 기계학습 모델 학습 코드를 확인 가능. 
 
+Balanced Accuracy: public: 0.79173, **private: 0.79353**
 
