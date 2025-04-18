@@ -28,7 +28,7 @@ This project is based on <a href="https://knu-p4c-lab.github.io/lectures/bb2bca2
 
 ## 2. Model Building and Evaluation for HAR
 
-<a href="https://www.kaggle.com/competitions/2024-knu-ml-team-asmt" target="_blank">Model Building and Evaluation for HAR</a>에 참여해 학생들이 직접 수집한 HIIT Workout 데이터를 활용해 9종의 행동을 인식하는 기계 학습 모델을 훈련.
+<a href="https://www.kaggle.com/competitions/2024-knu-ml-team-asmt" target="_blank">Kaggle Competition</a>에 참여해 학생들이 직접 수집한 HIIT Workout 데이터를 활용해 9종의 행동을 인식하는 기계 학습 모델을 훈련.
 
 `train_accel.csv` `test_accel.csv`는 가속도계 데이터, `train_gyro.csv` `test_gyro.csv`는 각속도계 데이터를 담고 있으며, `train_label.csv`는 학생의 id와 workout 값을 담고 있음. 1~8은 각각의 운동, 0은 휴식을 의미함.
 
