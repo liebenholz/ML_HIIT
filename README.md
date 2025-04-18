@@ -41,5 +41,5 @@ This project is based on <a href="https://knu-p4c-lab.github.io/lectures/bb2bca2
 
 `team02` 폴더에서 주요 데이터 분석 및 기계학습 모델 학습 코드를 확인 가능. 
 
-Balanced Accuracy: public: 0.79173, **private: 0.79353**
+Balanced Accuracy - public: 0.79173, **private: 0.79353**
 
