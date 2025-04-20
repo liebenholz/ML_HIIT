@@ -12,13 +12,13 @@ This project is based on <a href="https://knu-p4c-lab.github.io/lectures/bb2bca2
 
 ## 1. Sensor Data Collection for HIIT Workout
 
-프로젝트의 목적은 스마트폰의 가속도계Accelerometer 및 각속도계Gyroscope로부터 수집된 센서 데이터를 활용, HIIT 운동 프로그램의 각 운동들을 실시간으로 분류하는 기계 학습 모델을 훈련하는 것.
+프로젝트의 목적은 스마트폰의 가속도계`Accelerometer` 및 각속도계`Gyroscope`로부터 수집된 센서 데이터를 활용, HIIT 운동 프로그램의 각 운동들을 실시간으로 분류하는 기계 학습 모델을 훈련하는 것.
 
-본 첫 번째 팀 과제에서는 기계 학습 모델 구축을 위한 사전 단계로 실제 HIIT 운동 프로그램을 수행하면서 센서 데이터를 수집함.
+팀 과제에서는 기계 학습 모델 구축을 위한 사전 단계로 실제 HIIT 운동 프로그램을 수행하면서 센서 데이터를 수집함.
 
 ### HIIT
 
-고강도 인터벌 트레이닝High-Intensity Interval Training으로, 고강도의 운동과 휴식을 번갈아가면서 하는 훈련 프로그램. 짧은 시간내에 많은 양의 칼로리를 소모할 수 있어서 체중 감량에 효과적인 것으로 알려져있음. [YouTube](https://www.youtube.com/watch?v=-hSma-BRzoo)
+고강도 인터벌 트레이닝`High-Intensity Interval Training`으로, 고강도의 운동과 휴식을 번갈아가면서 하는 훈련 프로그램. 짧은 시간내에 많은 양의 칼로리를 소모할 수 있어서 체중 감량에 효과적인 것으로 알려져있음. [YouTube](https://www.youtube.com/watch?v=-hSma-BRzoo)
 
 자세한 내용은 [설명 문서](https://docs.google.com/document/d/1lphQPFxZrGUJ2EBI5urmJG3JM_YP6eW_2CEfZHDD0cU/edit?tab=t.0)를 참고.
 
