@@ -8,7 +8,6 @@ This project is based on <a href="https://knu-p4c-lab.github.io/lectures/bb2bca2
 ### Team Information
 - Team Name : 휴먼 러닝
 - Members : 이정민, 이정훈, 조성혁
-- <a href="https://github.com/users/liebenholz/projects/2" target="_blank">Team Project Github Link</a>
 
 ## 1. Sensor Data Collection for HIIT Workout
 
